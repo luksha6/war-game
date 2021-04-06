@@ -1,0 +1,18 @@
+.playerContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 40%;
+}
+.left {
+    flex-direction: row;
+
+}
+.right {
+    flex-direction: row-reverse;
+}
+
+.player-turn {
+    color: green;
+    font-size:22px;
+}

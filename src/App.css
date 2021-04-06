@@ -1,0 +1,9 @@
+
+.app {
+  margin: 5rem;
+}
+
+.container {
+  display: flex;
+  justify-content: space-between;
+}
