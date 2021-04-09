@@ -1,5 +1,3 @@
-# Interview Test
-
 Start app:
 
 ```sh
